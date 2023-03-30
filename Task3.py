@@ -19,4 +19,4 @@ elif num[0]=="2" and num[1]=="5" and num[2]=="4":
     num="+" + num
     print(num)
 else:
-    print("false")
+    print("Invalid")
