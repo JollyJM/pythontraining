@@ -1,0 +1,6 @@
+num1=float(input("Enter firsts num: "))
+num2=float(input("Enter second num: "))
+num3=float(input("Enter third num: "))
+num4=float(input("Enter fourth num: "))
+largest=max(num1,num2,num3,num4)
+print(largest)
